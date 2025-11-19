@@ -7,8 +7,13 @@ MEMS
 
 新加坡
 Singapore
+job
+招聘
+光学
 
 晋城
+阳城
+山西大学
 
 脑磁
 昆迈医疗
@@ -20,9 +25,8 @@ Singapore
 
 软件技术
 
-四川
-
-
 python
 
 github
+
+投资
